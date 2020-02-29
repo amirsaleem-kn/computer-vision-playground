@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+            "title": "Merge images to get the unusual output",
+            "author": "Amir Saleem",
+            "cols": 2
+        },
+        {
+            "id": 2,
+            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+            "title": "Merge images to get the unusual output",
+            "author": "Amir Saleem",
+            "cols": 2
+        },
+        {
+            "id": 3,
+            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+            "title": "Merge images to get the unusual output",
+            "author": "Amir Saleem",
+            "cols": 1
+        },
+        {
+            "id": 4,
+            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+            "title": "Merge images to get the unusual output",
+            "author": "Amir Saleem",
+            "cols": 1
+        },
+        {
+            "id": 5,
+            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+            "title": "Merge images to get the unusual output",
+            "author": "Amir Saleem",
+            "cols": 1
+        },
+        {
+            "id": 6,
+            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+            "title": "Merge images to get the unusual output",
+            "author": "Amir Saleem",
+            "cols": 1
+        }
+    ]
+}
